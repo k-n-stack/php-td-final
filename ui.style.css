@@ -1,0 +1,26 @@
+#inputpanel {
+    box-sizing: border-box;
+    position: absolute;
+    top: 1%;
+    /* top: 30vh; */
+    left: 1%;
+
+    margin: 0%;
+    padding-left: 5px;
+
+    height: 90vmin;
+    width: 17vw;
+
+    border-style: solid;
+    border-width: 1px;
+    /* top: 700px; */
+
+    font-family: Consolas, monospace;
+
+    background-color: black;
+
+}
+
+#inputpanel p {
+    color: white;
+}

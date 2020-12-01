@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+div.welcome {
+    background-color: gray;
+    margin: 0%;
+    position: absolute;
+    /* top: 700px; */
+    top: 1vmin;
+    /* top: 40vmin; */
+    /* left: 50%; */
+    width: 60%;
+    left: 50%;
+    margin-left: -30%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+
+    text-align: center;
+}
